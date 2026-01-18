@@ -1,1 +1,1 @@
-make say-hello
+say-hello
